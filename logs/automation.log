@@ -1,0 +1,57 @@
+11:51:45.285 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\grouping.xml
+
+11:51:49.250 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+11:51:52.394 [main] INFO  testCases.Tc_001_UserRegistration - Click on My Account link
+11:51:56.431 [main] INFO  testCases.Tc_001_UserRegistration - Click on Register link
+11:51:56.431 [main] INFO  testCases.Tc_001_UserRegistration - Providing Customer Details
+11:51:57.803 [main] INFO  testCases.Tc_001_UserRegistration - Validating Excepted Message
+11:52:01.438 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+11:52:03.241 [main] INFO  testCases.Tc_002_LoginTest - ***** Tc_003 Finished *****
+11:18:50.633 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\grouping.xml
+
+11:19:34.813 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+11:19:38.001 [main] INFO  testCases.Tc_001_UserRegistration - Click on My Account link
+11:19:42.336 [main] INFO  testCases.Tc_001_UserRegistration - Click on Register link
+11:19:42.340 [main] INFO  testCases.Tc_001_UserRegistration - Providing Customer Details
+11:19:45.687 [main] INFO  testCases.Tc_001_UserRegistration - Validating Excepted Message
+11:19:50.314 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+11:19:52.029 [main] INFO  testCases.Tc_002_LoginTest - ***** Tc_003 Finished *****
+11:20:07.277 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\grouping.xml
+
+11:20:18.149 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+11:20:21.327 [main] INFO  testCases.Tc_001_UserRegistration - Click on My Account link
+11:20:29.454 [main] INFO  testCases.Tc_001_UserRegistration - Click on Register link
+11:20:29.458 [main] INFO  testCases.Tc_001_UserRegistration - Providing Customer Details
+11:20:30.914 [main] INFO  testCases.Tc_001_UserRegistration - Validating Excepted Message
+11:20:35.201 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+11:20:36.628 [main] INFO  testCases.Tc_002_LoginTest - ***** Tc_003 Finished *****
+11:31:14.830 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\grouping.xml
+
+11:33:51.578 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\grouping.xml
+
+11:34:03.860 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+11:34:06.989 [main] INFO  testCases.Tc_001_UserRegistration - Click on My Account link
+11:34:10.778 [main] INFO  testCases.Tc_001_UserRegistration - Click on Register link
+11:34:10.792 [main] INFO  testCases.Tc_001_UserRegistration - Providing Customer Details
+11:34:12.364 [main] INFO  testCases.Tc_001_UserRegistration - Validating Excepted Message
+11:34:16.504 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+11:34:17.953 [main] INFO  testCases.Tc_002_LoginTest - ***** Tc_003 Finished *****
+11:34:54.667 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+11:34:57.828 [main] INFO  testCases.Tc_001_UserRegistration - Click on My Account link
+11:35:01.810 [main] INFO  testCases.Tc_001_UserRegistration - Click on Register link
+11:35:01.813 [main] INFO  testCases.Tc_001_UserRegistration - Providing Customer Details
+11:35:03.340 [main] INFO  testCases.Tc_001_UserRegistration - Validating Excepted Message
+11:35:07.049 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+11:35:08.459 [main] INFO  testCases.Tc_002_LoginTest - ***** Tc_003 Finished *****
+11:35:56.015 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+11:35:59.145 [main] INFO  testCases.Tc_001_UserRegistration - Click on My Account link
+11:36:03.268 [main] INFO  testCases.Tc_001_UserRegistration - Click on Register link
+11:36:03.272 [main] INFO  testCases.Tc_001_UserRegistration - Providing Customer Details
+11:36:04.492 [main] INFO  testCases.Tc_001_UserRegistration - Validating Excepted Message
+11:36:08.766 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+11:36:10.355 [main] INFO  testCases.Tc_002_LoginTest - ***** Tc_003 Finished *****

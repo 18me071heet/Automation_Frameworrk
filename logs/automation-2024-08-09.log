@@ -1,0 +1,76 @@
+12:01:23.321 [main] INFO  testCases.registrationUser - ***** Starting Test Case:01 *******
+12:01:36.954 [main] INFO  testCases.registrationUser - Click on My Account link
+12:01:37.763 [main] INFO  testCases.registrationUser - Click on Register link
+12:01:37.764 [main] INFO  testCases.registrationUser - Providing Customer Details
+12:01:41.262 [main] INFO  testCases.registrationUser - Validating Excepted Message
+12:02:45.596 [main] INFO  testCases.registrationUser - ***** Starting Test Case:01 *******
+12:02:51.590 [main] INFO  testCases.registrationUser - Click on My Account link
+12:02:52.125 [main] INFO  testCases.registrationUser - Click on Register link
+12:02:52.129 [main] INFO  testCases.registrationUser - Providing Customer Details
+12:02:55.418 [main] INFO  testCases.registrationUser - Validating Excepted Message
+12:02:55.462 [main] ERROR testCases.registrationUser - Test Failed
+12:02:55.462 [main] DEBUG testCases.registrationUser - Debug Logs....
+11:59:23.105 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+12:00:03.347 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+12:02:13.223 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+12:03:17.885 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+12:04:31.909 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+12:07:51.427 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+12:08:42.962 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+12:08:53.971 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+12:09:35.765 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+12:09:46.884 [main] INFO  testCases.Tc_002_LoginTest - ***** Starting Tc_002 Login Test Case******
+13:52:28.172 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+13:54:51.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+13:57:09.080 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+13:57:11.113 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+13:58:11.375 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+13:58:13.568 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+13:58:48.422 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+13:58:50.278 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+14:07:15.114 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+14:07:17.134 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+14:08:06.539 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+14:08:08.591 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+14:12:48.665 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+14:12:51.017 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+14:13:35.596 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+14:13:37.595 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+14:13:57.417 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+14:13:59.483 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+14:15:07.448 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+14:15:09.522 [main] INFO  testCases.Tc_001_UserRegistration - ***** Starting Test Case:01 *******
+14:30:07.670 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+14:30:55.444 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+14:32:39.586 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
+14:40:49.405 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\Desktop\automation_selenium\framework_opencart\testng.xml
+
